@@ -1,7 +1,7 @@
 package com.myron.socket.rpc.test;
 
 /**
- * dddfdfdfffffffffff
+ * dddf
  * @author Administrator
  *
  */
