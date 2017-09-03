@@ -1,10 +1,6 @@
 package com.myron.socket.rpc.test;
 
-/**
- * dddf
- * @author Administrator
- *
- */
+
 public class HelloWorld {
 	//哈啊哈哈哈哈
 
