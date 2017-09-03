@@ -1,6 +1,6 @@
 package com.myron.socket.rpc.test;
 
 public class HelloWorld {
-	//ddfaddf
+	//哈啊哈哈哈哈
 
 }
