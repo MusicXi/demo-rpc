@@ -2,6 +2,11 @@ package com.myron.socket.rpc.bean;
 
 import java.io.Serializable;
 
+/**
+ * Rpc“Ï≥£¿‡
+ * @author linrx1
+ *
+ */
 public class RpcException extends Exception implements Serializable{
 	private static final long serialVersionUID = 1L;
 
