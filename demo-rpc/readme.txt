@@ -23,5 +23,5 @@ demo 启动运行步骤
 	com.myron.socket.rpc.test.RpcClient
 
 最近研究rpc,demo是结合技术博客及一些书籍学习的总结,分享出来希望一起玩下,和我一样对分布式开发感兴趣，或者对demo有疑问
-可以加 439019717群讨论。
+可以加 439019717群讨论。dddd
 
